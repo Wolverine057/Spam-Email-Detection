@@ -1,0 +1,1 @@
+print("dekhuchu kn kira banaiba start kar")
